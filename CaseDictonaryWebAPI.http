@@ -1,0 +1,6 @@
+@CaseDictonaryWebAPI_HostAddress = http://localhost:5178
+
+GET {{CaseDictonaryWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
